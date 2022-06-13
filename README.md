@@ -1,5 +1,4 @@
 # Repositório Sobre Aprimoramento de Códigos de Aplicações
-<meta name="google-site-verification" content="b5-SdkHRfHjrHAtzK8c3SsqiFeC0OxCn7sKSS0kZfl8" />
 
 ## Saudações!!
 
